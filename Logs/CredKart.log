@@ -1,0 +1,608 @@
+2026-01-28 23:00:40,877 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:00:40,877 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:00:48,285 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:00:48,285 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:00:48,348 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:00:48,348 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:00:48,349 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:00:48,349 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:00:50,435 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:00:50,435 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:00:50,802 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:00:50,802 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:01:16,274 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:01:16,274 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:01:16,274 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:01:16,274 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:06:53,420 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:06:53,420 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:06:57,635 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:06:57,635 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:06:57,796 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:06:57,796 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:06:57,796 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:06:57,796 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:06:58,313 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:06:58,313 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:06:58,628 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:06:58,628 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:07:03,883 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:07:03,883 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:07:03,884 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:07:03,884 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:07:47,599 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:07:47,599 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:07:52,852 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:07:52,852 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:07:53,216 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:07:53,216 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:07:53,217 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:07:53,217 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:07:53,662 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:07:53,662 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:07:53,959 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:07:53,959 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:07:59,173 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:07:59,173 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:07:59,174 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:07:59,174 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:09:38,330 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:09:38,330 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:09:41,786 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:09:41,786 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:09:42,007 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:09:42,007 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:09:42,007 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:09:42,007 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:09:42,692 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:09:42,692 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:09:42,930 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:09:42,930 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:09:49,262 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:09:49,262 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:09:49,263 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:09:49,263 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:12:26,518 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:12:26,518 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:12:31,859 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:12:31,859 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:12:31,914 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:12:31,914 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:12:35,029 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:12:35,029 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:12:35,430 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:12:35,430 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:12:35,566 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:12:35,566 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:12:44,715 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:12:44,715 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:12:44,716 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:12:44,716 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:12:44,987 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:12:44,987 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:12:45,426 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:12:45,426 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:12:49,191 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:12:49,191 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:12:49,596 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:12:49,596 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:12:49,926 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:12:49,926 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:12:56,362 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:12:56,362 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:12:57,659 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:12:57,659 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:12:58,715 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:12:58,715 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:12:59,171 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:12:59,171 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:13:05,388 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:13:05,388 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:13:06,148 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:13:06,148 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:13:06,367 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:13:06,367 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:13:06,499 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:13:06,499 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:13:12,453 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:13:12,453 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:13:12,686 - test_Credkart_login_ddt_004 - INFO - 91 - All Testcase Passes
+2026-01-28 23:13:12,686 - test_Credkart_login_ddt_004 - INFO - 91 - All Testcase Passes
+2026-01-28 23:13:12,686 - test_Credkart_login_ddt_004 - INFO - 96 - test_Credkart_login_ddt_004 Completed
+2026-01-28 23:13:12,686 - test_Credkart_login_ddt_004 - INFO - 96 - test_Credkart_login_ddt_004 Completed
+2026-01-28 23:14:44,042 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:14:44,042 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:14:48,155 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:14:48,155 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:14:48,389 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:14:48,389 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:14:48,940 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:14:48,940 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:14:49,291 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:14:49,291 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:14:49,548 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:14:49,548 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:14:56,585 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:14:56,585 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:14:56,586 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:14:56,586 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:14:56,826 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:14:56,826 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:14:56,944 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:14:56,944 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:14:59,060 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:14:59,060 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:14:59,272 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:14:59,272 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:14:59,686 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:14:59,686 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:15:01,728 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:15:01,728 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:15:01,728 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:15:01,728 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:15:02,099 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:15:02,099 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:15:02,251 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:15:02,251 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:17:31,212 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:17:31,212 - _process_logs - WARNING - 137 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-28 23:17:36,196 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:17:36,196 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-28 23:17:36,450 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:17:36,450 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-28 23:17:37,007 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:17:37,007 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:17:37,683 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:17:37,683 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:17:37,949 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:17:37,949 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:17:46,055 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:17:46,055 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:17:46,056 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:17:46,056 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:17:46,247 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:17:46,247 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:17:46,342 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:17:46,342 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:17:48,524 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:17:48,524 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:17:49,171 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:17:49,171 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:17:49,353 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:17:49,353 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:17:51,340 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:17:51,340 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-28 23:17:51,340 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:17:51,340 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-28 23:17:51,599 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:17:51,599 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-28 23:17:51,729 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:17:51,729 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-28 23:17:54,823 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:17:54,823 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:17:55,343 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:17:55,343 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:17:55,708 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:17:55,708 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:18:02,146 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:18:02,146 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:18:03,071 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:18:03,071 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-28 23:18:03,392 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:18:03,392 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-28 23:18:03,611 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:18:03,611 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-28 23:18:15,286 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-28 23:18:15,286 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-29 22:39:21,059 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-29 22:39:21,059 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.92 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-30 20:32:32,363 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-30 20:32:32,363 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-30 20:32:32,870 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-30 20:32:32,870 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-30 20:32:33,376 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-30 20:32:33,376 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-30 20:32:33,866 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-30 20:32:33,866 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-30 20:32:34,169 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-30 20:32:34,169 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-30 20:32:36,170 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-30 20:32:36,170 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-30 20:32:36,170 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-30 20:32:36,170 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-30 20:32:36,489 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-30 20:32:36,489 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-30 20:32:36,697 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-30 20:32:36,697 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-30 20:32:48,892 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-30 20:32:48,892 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-30 20:32:50,526 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-30 20:32:50,526 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-30 20:32:51,246 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-30 20:32:51,246 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-30 20:32:52,704 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-30 20:32:52,704 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-30 20:32:53,422 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-30 20:32:53,422 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-30 20:32:53,801 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-30 20:32:53,801 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-30 20:32:56,865 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-30 20:32:56,865 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-30 20:32:56,865 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-30 20:32:56,865 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-30 20:32:57,963 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-30 20:32:57,963 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-30 20:32:58,930 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-30 20:32:58,930 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-30 20:33:10,176 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-30 20:33:10,176 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-30 20:33:10,179 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-30 20:33:10,179 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-30 20:33:10,266 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-30 20:33:10,266 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 20:56:03,519 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 20:56:03,519 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 20:56:04,663 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 20:56:04,663 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 20:56:05,825 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 20:56:05,825 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 20:56:06,676 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 20:56:06,676 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 20:56:09,475 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 20:56:09,475 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 20:56:09,573 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 20:56:09,573 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 20:56:11,808 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 20:56:11,808 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 20:56:11,853 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 20:56:11,853 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 20:56:22,771 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 20:56:22,771 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 20:56:22,771 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 20:56:22,771 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 20:56:22,776 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 20:56:22,776 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 20:56:22,777 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 20:56:22,777 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 20:56:23,805 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 20:56:23,805 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 20:56:23,832 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 20:56:23,832 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 20:56:24,709 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 20:56:24,709 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 20:56:24,847 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 20:56:24,847 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 20:56:35,778 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 20:56:35,778 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 20:56:35,778 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 20:56:35,778 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 20:56:35,784 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 20:56:35,784 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 20:56:53,838 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 20:56:53,838 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 20:56:54,776 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 20:56:54,776 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 20:56:54,926 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 20:56:54,926 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 20:58:14,106 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,106 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,107 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,107 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,196 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,196 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,211 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:14,211 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 20:58:30,007 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 20:58:30,007 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 20:58:31,206 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 20:58:31,206 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 20:58:32,159 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 20:58:32,159 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 20:58:40,464 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 20:58:40,464 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 20:58:40,562 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 20:58:40,562 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 20:58:41,009 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 20:58:41,009 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 20:58:42,127 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 20:58:42,127 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 20:58:48,669 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 20:58:48,669 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 20:58:48,670 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 20:58:48,670 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 20:58:48,723 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 20:58:48,723 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 20:58:51,277 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-01-31 20:58:51,277 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-01-31 20:58:53,149 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-01-31 20:58:53,149 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-01-31 20:58:54,035 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-01-31 20:58:54,035 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-01-31 20:58:54,866 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-01-31 20:58:54,866 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-01-31 20:58:58,295 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-01-31 20:58:58,295 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-01-31 20:58:58,296 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass brian82
+2026-01-31 20:58:58,296 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass brian82
+2026-01-31 20:58:58,571 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-01-31 20:58:58,571 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-01-31 20:58:58,868 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-01-31 20:58:58,868 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-01-31 21:00:45,443 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 21:00:45,443 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 21:00:53,062 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:00:53,062 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:00:54,820 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:00:54,820 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:00:54,975 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:00:54,975 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:03:35,723 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:03:35,723 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:03:36,097 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:03:36,097 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:03:36,621 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:03:36,621 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:03:37,545 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:03:37,545 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:03:37,874 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:03:37,874 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:03:40,057 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:03:40,057 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:03:40,058 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:03:40,058 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:03:40,376 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:03:40,376 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:03:40,559 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:03:40,559 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:04:00,813 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:04:00,813 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:04:02,220 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:04:02,220 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:04:02,374 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:04:02,374 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:04:03,228 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:04:03,228 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:04:04,138 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:04:04,138 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:04:04,711 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:04:04,711 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:04:07,457 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:04:07,457 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:04:07,458 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:04:07,458 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:04:07,726 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:04:07,726 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:04:07,897 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:04:07,897 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:04:17,005 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:04:17,005 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:04:17,007 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:04:17,007 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:04:17,008 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:04:17,008 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:24:46,284 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:24:46,284 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:24:46,621 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:24:46,621 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:24:47,143 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:24:47,143 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:24:49,685 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:24:49,685 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:24:51,196 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:24:51,196 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:24:56,045 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:24:56,045 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:24:56,045 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:24:56,045 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:24:57,077 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:24:57,077 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:24:58,536 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:24:58,536 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:26:26,887 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:26:26,887 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:26:29,713 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:26:29,713 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:26:29,782 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:26:29,782 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:26:35,045 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:26:35,045 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:26:36,120 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:26:36,120 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:26:36,963 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:26:36,963 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:26:39,175 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:26:39,175 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:26:39,176 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:26:39,176 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:26:39,676 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:26:39,676 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:26:40,681 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:26:40,681 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:27:15,422 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:27:15,422 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:27:15,423 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:27:15,423 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:27:15,458 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:27:15,458 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:39:18,326 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:39:18,326 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:39:18,719 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:39:18,719 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:39:18,949 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:18,949 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:19,279 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:19,279 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:19,338 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:19,338 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:22,941 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:39:22,941 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:39:22,942 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:39:22,942 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:39:23,208 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:39:23,208 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:39:23,300 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:39:23,300 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:39:24,387 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:24,387 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:24,565 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:24,565 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:24,633 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:24,633 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:25,710 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:39:25,710 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:39:25,710 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:39:25,710 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:39:25,960 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:39:25,960 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:39:26,064 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:39:26,064 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:39:27,169 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:27,169 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:27,488 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:27,488 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:27,563 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:27,563 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:33,092 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:39:33,092 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:39:33,677 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:33,677 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:39:33,830 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:33,830 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:39:33,889 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:33,889 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:39:39,522 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:39:39,522 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:40:00,037 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:40:00,037 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:40:04,290 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:40:04,290 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:40:04,322 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:40:04,322 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:40:05,096 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:40:05,096 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:40:05,260 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:40:05,260 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:40:05,344 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:40:05,344 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:40:06,462 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:40:06,462 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:40:06,462 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:40:06,462 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:40:06,641 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:40:06,641 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:40:06,730 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:40:06,730 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:40:07,662 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:40:07,662 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:40:07,663 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:40:07,663 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:40:07,664 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:40:07,664 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:40:07,747 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-01-31 21:40:07,747 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-01-31 21:40:07,837 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-01-31 21:40:07,837 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-01-31 21:40:07,913 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-01-31 21:40:07,913 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-01-31 21:40:07,995 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-01-31 21:40:07,995 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-01-31 21:40:08,726 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-01-31 21:40:08,726 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-01-31 21:40:08,726 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass ihawkins
+2026-01-31 21:40:08,726 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass ihawkins
+2026-01-31 21:40:08,865 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-01-31 21:40:08,865 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-01-31 21:40:08,973 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-01-31 21:40:08,973 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-01-31 21:46:19,330 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:46:19,330 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-01-31 21:46:19,879 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:46:19,879 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-01-31 21:46:20,280 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:20,280 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:22,032 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:22,032 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:22,180 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:22,180 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:23,291 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:46:23,291 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:46:23,292 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:46:23,292 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:46:23,547 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:46:23,547 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:46:23,652 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:46:23,652 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:46:24,992 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:24,992 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:25,418 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:25,418 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:25,475 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:25,475 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:26,709 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:46:26,709 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-01-31 21:46:26,710 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:46:26,710 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-01-31 21:46:27,045 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:46:27,045 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-01-31 21:46:27,264 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:46:27,264 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-01-31 21:46:34,580 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:46:34,580 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-01-31 21:46:35,766 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:46:35,766 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-01-31 21:46:35,876 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:46:35,876 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-01-31 21:46:36,518 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:36,518 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:37,141 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:46:37,141 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-01-31 21:46:37,141 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:46:37,141 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-01-31 21:46:37,333 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:46:37,333 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-01-31 21:46:37,438 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:46:37,438 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-01-31 21:46:38,086 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:38,086 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:38,770 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:46:38,770 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-01-31 21:46:38,771 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:46:38,771 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-01-31 21:46:38,771 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:46:38,771 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-01-31 21:46:38,873 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-01-31 21:46:38,873 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-01-31 21:46:38,898 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:38,898 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:39,038 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-01-31 21:46:39,038 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-01-31 21:46:39,129 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-01-31 21:46:39,129 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-01-31 21:46:39,214 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-01-31 21:46:39,214 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-01-31 21:46:39,899 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-01-31 21:46:39,899 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-01-31 21:46:39,899 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass jonesjames
+2026-01-31 21:46:39,899 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass jonesjames
+2026-01-31 21:46:40,085 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-01-31 21:46:40,085 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-01-31 21:46:40,221 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-01-31 21:46:40,221 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-01-31 21:46:45,386 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:46:45,386 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:46:50,918 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:50,918 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-01-31 21:46:51,805 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:51,805 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-01-31 21:46:52,128 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:52,128 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-01-31 21:46:58,275 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:46:58,275 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-01-31 21:46:58,552 - test_Credkart_login_ddt_004 - INFO - 93 - Some of the testcases have failed
+2026-01-31 21:46:58,552 - test_Credkart_login_ddt_004 - INFO - 93 - Some of the testcases have failed
+2026-01-31 21:47:24,331 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:47:24,331 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-01-31 21:47:25,669 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:47:25,669 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-01-31 21:47:25,798 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-01-31 21:47:25,798 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
