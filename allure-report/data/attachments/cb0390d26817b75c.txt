@@ -1,0 +1,4 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:38 Opening Browser
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:41 test_verify_Credkart_url_001 is passed
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:43 Taking Screenshot of pass testcase

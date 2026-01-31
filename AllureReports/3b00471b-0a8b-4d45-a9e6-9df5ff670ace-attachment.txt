@@ -1,3 +1,0 @@
-fake_username--> joyhammond
-fake_email--> jaredgray@example.org
-Browser Closed

@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:115 printing fake username
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:117 printing fake password
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:122 entering username
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:125 entering email
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:128 entering password
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:131 entering confirmed password
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:134 clicking on register button
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:138 Menu button visibility passed
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:139 Taking screenshot of User Registration Pass jcruz
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:141 clicking on menu button
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:143 clicking on logout button

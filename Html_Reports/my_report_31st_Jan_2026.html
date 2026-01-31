@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title id="head-title">Automation Test Execution Report</title>
+      <link href="assets\style.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <h1 id="title">Automation Test Execution Report</h1>
+    <p>Report generated on 31-Jan-2026 at 23:09:58 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a>
+        v4.1.1</p>
+    <div id="environment-header">
+      <h2>Environment</h2>
+    </div>
+    <table id="environment"></table>
+    <!-- TEMPLATES -->
+      <template id="template_environment_row">
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+    </template>
+    <template id="template_results-table__body--empty">
+      <tbody class="results-table-row">
+        <tr id="not-found-message">
+          <td colspan="4">No results found. Check the filters.</th>
+        </tr>
+    </template>
+    <template id="template_results-table__tbody">
+      <tbody class="results-table-row">
+        <tr class="collapsible">
+        </tr>
+        <tr class="extras-row">
+          <td class="extra" colspan="4">
+            <div class="extraHTML"></div>
+            <div class="media">
+              <div class="media-container">
+                  <div class="media-container__nav--left"><</div>
+                  <div class="media-container__viewport">
+                    <img src="" />
+                    <video controls>
+                      <source src="" type="video/mp4">
+                    </video>
+                  </div>
+                  <div class="media-container__nav--right">></div>
+                </div>
+                <div class="media__name"></div>
+                <div class="media__counter"></div>
+            </div>
+            <div class="logwrapper">
+              <div class="logexpander"></div>
+              <div class="log"></div>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </template>
+    <!-- END TEMPLATES -->
+    <div class="summary">
+      <div class="summary__data">
+        <h2>Summary</h2>
+        <div class="additional-summary prefix">
+          Automation Execution Summary
+          Project: Credence
+          Executed by: Karuna
+        </div>
+        <p class="run-count">8 tests took 00:04:02.</p>
+        <p class="filter">(Un)check the boxes to filter the results.</p>
+        <div class="summary__reload">
+          <div class="summary__reload__button hidden" onclick="location.reload()">
+            <div>There are still tests running. <br />Reload this page to get the latest results!</div>
+          </div>
+        </div>
+        <div class="summary__spacer"></div>
+        <div class="controls">
+          <div class="filters">
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="failed" />
+            <span class="failed">3 Failed,</span>
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="passed" />
+            <span class="passed">5 Passed,</span>
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="skipped" disabled/>
+            <span class="skipped">0 Skipped,</span>
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="xfailed" disabled/>
+            <span class="xfailed">0 Expected failures,</span>
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="xpassed" disabled/>
+            <span class="xpassed">0 Unexpected passes,</span>
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="error" disabled/>
+            <span class="error">0 Errors,</span>
+            <input checked="true" class="filter" name="filter_checkbox" type="checkbox" data-test-result="rerun" disabled/>
+            <span class="rerun">0 Reruns</span>
+          </div>
+          <div class="collapse">
+            <button id="show_all_details">Show all details</button>&nbsp;/&nbsp;<button id="hide_all_details">Hide all details</button>
+          </div>
+        </div>
+      </div>
+      <div class="additional-summary summary">
+        Automation Execution Summary
+        Project: Credence
+        Executed by: Karuna
+      </div>
+      <div class="additional-summary postfix">
+        Automation Execution Summary
+        Project: Credence
+        Executed by: Karuna
+      </div>
+    </div>
+    <table id="results-table">
+      <thead id="results-table-head">
+        <tr>
+          <th class="sortable" data-column-type="result">Result</th>
+          <th class="sortable" data-column-type="testId">Test</th>
+          <th class="sortable" data-column-type="duration">Duration</th>
+          <th>Links</th>
+        </tr>
+      </thead>
+    </table>
+  </body>
+  <footer>
+    <div id="data-container" data-jsonblob="{&#34;environment&#34;: {&#34;Python&#34;: &#34;3.14.2&#34;, &#34;Packages&#34;: {&#34;pytest&#34;: &#34;9.0.2&#34;, &#34;pluggy&#34;: &#34;1.6.0&#34;}, &#34;Plugins&#34;: {&#34;allure-pytest&#34;: &#34;2.15.3&#34;, &#34;Faker&#34;: &#34;40.1.2&#34;, &#34;cov&#34;: &#34;7.0.0&#34;, &#34;html&#34;: &#34;4.1.1&#34;, &#34;metadata&#34;: &#34;3.1.1&#34;, &#34;rerunfailures&#34;: &#34;16.1&#34;, &#34;sugar&#34;: &#34;1.1.1&#34;, &#34;xdist&#34;: &#34;3.8.0&#34;}, &#34;CI&#34;: &#34;true&#34;, &#34;BUILD_NUMBER&#34;: &#34;3&#34;, &#34;BUILD_ID&#34;: &#34;3&#34;, &#34;BUILD_URL&#34;: &#34;http://localhost:9090/job/Project%20Jan%202026%20-%20CredKart/3/&#34;, &#34;NODE_NAME&#34;: &#34;built-in&#34;, &#34;JOB_NAME&#34;: &#34;Project Jan 2026 - CredKart&#34;, &#34;BUILD_TAG&#34;: &#34;jenkins-Project Jan 2026 - CredKart-3&#34;, &#34;EXECUTOR_NUMBER&#34;: &#34;0&#34;, &#34;JENKINS_URL&#34;: &#34;http://localhost:9090/&#34;, &#34;JAVA_HOME&#34;: &#34;C:\\Program Files\\Java\\jdk-17&#34;, &#34;WORKSPACE&#34;: &#34;D:\\Karuna\\Credence Software Testing\\Software Testing_Depth Part\\Python\\Python_Basic_Pytest\\CredKart_Pytest_Framework&#34;, &#34;Project Name&#34;: &#34;CredKart Automation&#34;, &#34;Environment&#34;: &#34;QA Environment&#34;, &#34;Tester Name&#34;: &#34;Credence&#34;}, &#34;tests&#34;: {&#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data2]&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Passed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data2]&#34;, &#34;duration&#34;: &#34;00:00:32&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Passed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data2]&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:32&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw3] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n\n------------------------------ Captured log setup ------------------------------\nWARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The msedgedriver version (143.0.3650.96) detected in PATH at C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_Credkart_login_002&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Failed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_Credkart_login_002&#34;, &#34;duration&#34;: &#34;00:00:29&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Failed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_Credkart_login_002&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:29&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw1] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n\nself = &amp;lt;testCases.test_Credkart_User_Profile_001.Test_User_Profile object at 0x0000013B8D8911D0&amp;gt;\n\n    @pytest.mark.usefixtures(&amp;quot;browser_setup&amp;quot;)\n    def test_Credkart_login_002(self):\n        #self.driver.get(&amp;quot;https://automation.credence.in/login&amp;quot;)\n        self.driver.get(self.login_url)\n        # email_id = &amp;quot;Credencetest@test.com&amp;quot;\n        # pass_word = &amp;quot;Credence@123&amp;quot;\n    \n        self.lp = Login_Page_Class(self.driver)  # login page class object and now we can access the methods\n    \n        # Enter Username\n        # email = self.driver.find_element(By.XPATH, &amp;quot;//input[@id=&amp;#x27;email&amp;#x27;]&amp;quot;)\n        # email.send_keys(email_id)\n        self.log.info(&amp;quot;Entering email&amp;quot;)\n        self.lp.Enter_Email(self.email)\n    \n        # Enter Password\n        # password = self.driver.find_element(By.XPATH, &amp;quot;//input[@id=&amp;#x27;password&amp;#x27;]&amp;quot;)\n        # password.send_keys(pass_word)\n        self.log.info(&amp;quot;Entering password&amp;quot;)\n        self.lp.Enter_Password(self.password)\n    \n        # Click on Login button\n        # login_button = self.driver.find_element(By.CSS_SELECTOR, &amp;quot;button[type=&amp;#x27;submit&amp;#x27;]&amp;quot;)\n        # login_button.click()\n        self.log.info(&amp;quot;clicking on Login_Register_Button &amp;quot;)\n        self.lp.Click_Login_Register_Button()\n    \n        # wait = WebDriverWait(self.driver, 5)\n        # try:\n        #     wait.until(expected_conditions.visibility_of_element_located((By.XPATH, &amp;quot;/html/body/div/div[1]/p[1]&amp;quot;)))\n        #     element = self.driver.find_element(By.XPATH, &amp;quot;/html/body/div/div[1]/p[1]&amp;quot;)\n        #     print(&amp;quot;User Login Successful&amp;quot;)\n        #     # driver.save_screenshot(f&amp;quot;User Login Successful_{email_id}.png&amp;quot;)\n        #     menu = self.driver.find_element(By.XPATH, &amp;quot;//a[@role=&amp;#x27;button&amp;#x27;]&amp;quot;)\n        #     menu.click()\n        #     logout = self.driver.find_element(By.XPATH, &amp;quot;//a[normalize-space()=&amp;#x27;Logout&amp;#x27;]&amp;quot;)\n        #     logout.click()\n        #\n        #\n        # except:\n        #     print(&amp;quot;User Login Fail&amp;quot;)\n        #     # driver.save_screenshot(f&amp;quot;User Login Fail_{email_id}.png&amp;quot;)\n        #     assert False, &amp;quot;User Login Fail&amp;quot;\n    \n        if self.lp.verify_menu_button_visibility() == &amp;quot;pass&amp;quot;:\n            self.log.info(&amp;quot;verify_menu_button_visibility pass&amp;quot;)\n            self.log.info(&amp;quot;taking screenshot of pass testcase&amp;quot;)\n            self.driver.save_screenshot(f&amp;quot;.\\\\Screenshots\\\\User Login Pass {self.email}.png&amp;quot;)\n            self.log.info(&amp;quot;clicking on menu button&amp;quot;)\n            self.lp.Click_Menu_button()\n            self.log.info(&amp;quot;clicking on logout button&amp;quot;)\n&amp;gt;           self.lp.Click_Logout_button()\n\ntestCases\\test_Credkart_User_Profile_001.py:101: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nPageObjects\\Login_page.py:31: in Click_Logout_button\n    self.driver.find_element(By.XPATH, self.click_logout_button_Xpath).click()\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py:114: in click\n    self._execute(Command.CLICK_ELEMENT)\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py:508: in _execute\n    return self._parent.execute(command, params)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py:432: in execute\n    self.error_handler.check_response(response)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = &amp;lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000013B8D964980&amp;gt;\nresponse = {&amp;#x27;status&amp;#x27;: 400, &amp;#x27;value&amp;#x27;: &amp;#x27;{&amp;quot;value&amp;quot;:{&amp;quot;error&amp;quot;:&amp;quot;element click intercepted&amp;quot;,&amp;quot;message&amp;quot;:&amp;quot;element click intercepted: Element ...ff6e55346a6\\\\n\\\\t0x7ff6e552eab4\\\\n\\\\t0x7ff6e552ebf9\\\\n\\\\t0x7ff6e5522cbd\\\\n\\\\t0x7ffa04bce8d7\\\\n\\\\t0x7ffa05ccc40c\\\\n&amp;quot;}}&amp;#x27;}\n\n    def check_response(self, response: dict[str, Any]) -&amp;gt; None:\n        &amp;quot;&amp;quot;&amp;quot;Check that a JSON response from the WebDriver does not have an error.\n    \n        Args:\n            response: The JSON response from the WebDriver server as a dictionary\n                object.\n    \n        Raises:\n            WebDriverException: If the response contains an error message.\n        &amp;quot;&amp;quot;&amp;quot;\n        status = response.get(&amp;quot;status&amp;quot;, None)\n        if not status or status == ErrorCode.SUCCESS:\n            return\n        value = None\n        message = response.get(&amp;quot;message&amp;quot;, &amp;quot;&amp;quot;)\n        screen: str = response.get(&amp;quot;screen&amp;quot;, &amp;quot;&amp;quot;)\n        stacktrace = None\n        if isinstance(status, int):\n            value_json = response.get(&amp;quot;value&amp;quot;, None)\n            if value_json and isinstance(value_json, str):\n                try:\n                    value = json.loads(value_json)\n                    if isinstance(value, dict):\n                        if len(value) == 1:\n                            value = value[&amp;quot;value&amp;quot;]\n                        status = value.get(&amp;quot;error&amp;quot;, None)\n                        if not status:\n                            status = value.get(&amp;quot;status&amp;quot;, ErrorCode.UNKNOWN_ERROR)\n                            message = value.get(&amp;quot;value&amp;quot;) or value.get(&amp;quot;message&amp;quot;)\n                            if not isinstance(message, str):\n                                value = message\n                                message = message.get(&amp;quot;message&amp;quot;) if isinstance(message, dict) else None\n                        else:\n                            message = value.get(&amp;quot;message&amp;quot;, None)\n                except ValueError:\n                    pass\n    \n        exception_class: type[WebDriverException]\n        e = ErrorCode()\n        error_codes = [item for item in dir(e) if not item.startswith(&amp;quot;__&amp;quot;)]\n        for error_code in error_codes:\n            error_info = getattr(ErrorCode, error_code)\n            if isinstance(error_info, list) and status in error_info:\n                exception_class = getattr(ExceptionMapping, error_code, WebDriverException)\n                break\n        else:\n            exception_class = WebDriverException\n    \n        if not value:\n            value = response[&amp;quot;value&amp;quot;]\n        if isinstance(value, str):\n            raise exception_class(value)\n        if message == &amp;quot;&amp;quot; and &amp;quot;message&amp;quot; in value:\n            message = value[&amp;quot;message&amp;quot;]\n    \n        screen = None  # type: ignore[assignment]\n        if &amp;quot;screen&amp;quot; in value:\n            screen = value[&amp;quot;screen&amp;quot;]\n    \n        stacktrace = None\n        st_value = value.get(&amp;quot;stackTrace&amp;quot;) or value.get(&amp;quot;stacktrace&amp;quot;)\n        if st_value:\n            if isinstance(st_value, str):\n                stacktrace = st_value.split(&amp;quot;\\n&amp;quot;)\n            else:\n                stacktrace = []\n                try:\n                    for frame in st_value:\n                        line = frame.get(&amp;quot;lineNumber&amp;quot;, &amp;quot;&amp;quot;)\n                        file = frame.get(&amp;quot;fileName&amp;quot;, &amp;quot;&amp;lt;anonymous&amp;gt;&amp;quot;)\n                        if line:\n                            file = f&amp;quot;{file}:{line}&amp;quot;\n                        meth = frame.get(&amp;quot;methodName&amp;quot;, &amp;quot;&amp;lt;anonymous&amp;gt;&amp;quot;)\n                        if &amp;quot;className&amp;quot; in frame:\n                            meth = f&amp;quot;{frame[&amp;#x27;className&amp;#x27;]}.{meth}&amp;quot;\n                        msg = &amp;quot;    at %s (%s)&amp;quot;\n                        msg = msg % (meth, file)\n                        stacktrace.append(msg)\n                except TypeError:\n                    pass\n        if exception_class == UnexpectedAlertPresentException:\n            alert_text = None\n            if &amp;quot;data&amp;quot; in value:\n                alert_text = value[&amp;quot;data&amp;quot;].get(&amp;quot;text&amp;quot;)\n            elif &amp;quot;alert&amp;quot; in value:\n                alert_text = value[&amp;quot;alert&amp;quot;].get(&amp;quot;text&amp;quot;)\n            raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here\n&amp;gt;       raise exception_class(message, screen, stacktrace)\nE       selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element &amp;lt;a href=&amp;quot;https://automation.credence.in/logout&amp;quot; onclick=&amp;quot;if (!window.__cfRLUnblockHandlers) return false; event.preventDefault();\nE                                                        document.getElementById(&amp;#x27;logout-form&amp;#x27;).submit();&amp;quot;&amp;gt;...&amp;lt;/a&amp;gt; is not clickable at point (79, 13). Other element would receive the click: &amp;lt;nav class=&amp;quot;navbar navbar-default navbar-static-top&amp;quot;&amp;gt;...&amp;lt;/nav&amp;gt;\nE         (Session info: MicrosoftEdge=144.0.3719.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception\nE       Stacktrace:\nE       Symbols not available. Dumping unresolved backtrace:\nE       \t0x7ff6e55b87d5\nE       \t0x7ff6e5528e44\nE       \t0x7ff6e59131f2\nE       \t0x7ff6e5388789\nE       \t0x7ff6e5386e20\nE       \t0x7ff6e5384dd7\nE       \t0x7ff6e5384321\nE       \t0x7ff6e537ac83\nE       \t0x7ff6e53a23ea\nE       \t0x7ff6e537a2e5\nE       \t0x7ff6e537a1fd\nE       \t0x7ff6e537a2e5\nE       \t0x7ff6e53bc8de\nE       \t0x7ff6e537982a\nE       \t0x7ff6e5378b33\nE       \t0x7ff6e5379653\nE       \t0x7ff6e54622e4\nE       \t0x7ff6e547109c\nE       \t0x7ff6e546ac7f\nE       \t0x7ff6e5649b37\nE       \t0x7ff6e55346a6\nE       \t0x7ff6e552eab4\nE       \t0x7ff6e552ebf9\nE       \t0x7ff6e5522cbd\nE       \t0x7ffa04bce8d7\nE       \t0x7ffa05ccc40c\n\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py:232: ElementClickInterceptedException\n\n------------------------------ Captured log setup ------------------------------\nWARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The msedgedriver version (143.0.3650.96) detected in PATH at C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry\n\n------------------------------ Captured log call -------------------------------\nINFO     root:test_Credkart_User_Profile_001.py:62 Entering email\nINFO     root:test_Credkart_User_Profile_001.py:68 Entering password\nINFO     root:test_Credkart_User_Profile_001.py:74 clicking on Login_Register_Button \nINFO     root:test_Credkart_User_Profile_001.py:95 verify_menu_button_visibility pass\nINFO     root:test_Credkart_User_Profile_001.py:96 taking screenshot of pass testcase\nINFO     root:test_Credkart_User_Profile_001.py:98 clicking on menu button\nINFO     root:test_Credkart_User_Profile_001.py:100 clicking on logout button\n\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data0]&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Passed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data0]&#34;, &#34;duration&#34;: &#34;00:00:34&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Passed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data0]&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:34&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw2] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n\n------------------------------ Captured log setup ------------------------------\nWARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The msedgedriver version (143.0.3650.96) detected in PATH at C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data1]&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Passed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data1]&#34;, &#34;duration&#34;: &#34;00:00:22&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Passed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data1]&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:22&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw2] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data3]&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Passed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data3]&#34;, &#34;duration&#34;: &#34;00:00:24&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Passed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_login_params_003.py::Test_login_params_005::test_credkart_login_params_ddt_005[credkart_login_data3]&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:24&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw3] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_Credkart_registration_003&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Failed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_Credkart_registration_003&#34;, &#34;duration&#34;: &#34;00:00:23&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Failed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_Credkart_registration_003&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:23&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw1] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n\nself = &amp;lt;testCases.test_Credkart_User_Profile_001.Test_User_Profile object at 0x0000013B8D7F63F0&amp;gt;\n\n    def test_Credkart_registration_003(self):\n    \n        #self.driver.get(&amp;quot;https://automation.credence.in/register&amp;quot;)\n        self.driver.get(self.registration_url)\n        fake_username = Faker().user_name()  # New\n        fake_email = Faker().email()  # New\n        password_data = &amp;quot;Credence_user_101@123&amp;quot;\n        self.log.info(&amp;quot;printing fake username&amp;quot;)\n        print(f&amp;quot;fake_username--&amp;gt; {fake_username}&amp;quot;)  # New\n        self.log.info(&amp;quot;printing fake password&amp;quot;)\n        print(f&amp;quot;fake_email--&amp;gt; {fake_email}&amp;quot;)  # New\n    \n        self.rp = Registration_Page_Class(self.driver)\n        # Enter Username\n        self.log.info(&amp;quot;entering username&amp;quot;)\n&amp;gt;       self.rp.Enter_Name(fake_username)\n\ntestCases\\test_Credkart_User_Profile_001.py:123: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nPageObjects\\Registration_page.py:15: in Enter_Name\n    self.driver.find_element(By.XPATH, self.text_name_xpath).send_keys(name)\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py:802: in find_element\n    return self.execute(Command.FIND_ELEMENT, {&amp;quot;using&amp;quot;: by, &amp;quot;value&amp;quot;: value})[&amp;quot;value&amp;quot;]\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py:432: in execute\n    self.error_handler.check_response(response)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = &amp;lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000013B8D964980&amp;gt;\nresponse = {&amp;#x27;status&amp;#x27;: 404, &amp;#x27;value&amp;#x27;: &amp;#x27;{&amp;quot;value&amp;quot;:{&amp;quot;error&amp;quot;:&amp;quot;no such element&amp;quot;,&amp;quot;message&amp;quot;:&amp;quot;no such element: Unable to locate element: {\\...ff6e55346a6\\\\n\\\\t0x7ff6e552eab4\\\\n\\\\t0x7ff6e552ebf9\\\\n\\\\t0x7ff6e5522cbd\\\\n\\\\t0x7ffa04bce8d7\\\\n\\\\t0x7ffa05ccc40c\\\\n&amp;quot;}}&amp;#x27;}\n\n    def check_response(self, response: dict[str, Any]) -&amp;gt; None:\n        &amp;quot;&amp;quot;&amp;quot;Check that a JSON response from the WebDriver does not have an error.\n    \n        Args:\n            response: The JSON response from the WebDriver server as a dictionary\n                object.\n    \n        Raises:\n            WebDriverException: If the response contains an error message.\n        &amp;quot;&amp;quot;&amp;quot;\n        status = response.get(&amp;quot;status&amp;quot;, None)\n        if not status or status == ErrorCode.SUCCESS:\n            return\n        value = None\n        message = response.get(&amp;quot;message&amp;quot;, &amp;quot;&amp;quot;)\n        screen: str = response.get(&amp;quot;screen&amp;quot;, &amp;quot;&amp;quot;)\n        stacktrace = None\n        if isinstance(status, int):\n            value_json = response.get(&amp;quot;value&amp;quot;, None)\n            if value_json and isinstance(value_json, str):\n                try:\n                    value = json.loads(value_json)\n                    if isinstance(value, dict):\n                        if len(value) == 1:\n                            value = value[&amp;quot;value&amp;quot;]\n                        status = value.get(&amp;quot;error&amp;quot;, None)\n                        if not status:\n                            status = value.get(&amp;quot;status&amp;quot;, ErrorCode.UNKNOWN_ERROR)\n                            message = value.get(&amp;quot;value&amp;quot;) or value.get(&amp;quot;message&amp;quot;)\n                            if not isinstance(message, str):\n                                value = message\n                                message = message.get(&amp;quot;message&amp;quot;) if isinstance(message, dict) else None\n                        else:\n                            message = value.get(&amp;quot;message&amp;quot;, None)\n                except ValueError:\n                    pass\n    \n        exception_class: type[WebDriverException]\n        e = ErrorCode()\n        error_codes = [item for item in dir(e) if not item.startswith(&amp;quot;__&amp;quot;)]\n        for error_code in error_codes:\n            error_info = getattr(ErrorCode, error_code)\n            if isinstance(error_info, list) and status in error_info:\n                exception_class = getattr(ExceptionMapping, error_code, WebDriverException)\n                break\n        else:\n            exception_class = WebDriverException\n    \n        if not value:\n            value = response[&amp;quot;value&amp;quot;]\n        if isinstance(value, str):\n            raise exception_class(value)\n        if message == &amp;quot;&amp;quot; and &amp;quot;message&amp;quot; in value:\n            message = value[&amp;quot;message&amp;quot;]\n    \n        screen = None  # type: ignore[assignment]\n        if &amp;quot;screen&amp;quot; in value:\n            screen = value[&amp;quot;screen&amp;quot;]\n    \n        stacktrace = None\n        st_value = value.get(&amp;quot;stackTrace&amp;quot;) or value.get(&amp;quot;stacktrace&amp;quot;)\n        if st_value:\n            if isinstance(st_value, str):\n                stacktrace = st_value.split(&amp;quot;\\n&amp;quot;)\n            else:\n                stacktrace = []\n                try:\n                    for frame in st_value:\n                        line = frame.get(&amp;quot;lineNumber&amp;quot;, &amp;quot;&amp;quot;)\n                        file = frame.get(&amp;quot;fileName&amp;quot;, &amp;quot;&amp;lt;anonymous&amp;gt;&amp;quot;)\n                        if line:\n                            file = f&amp;quot;{file}:{line}&amp;quot;\n                        meth = frame.get(&amp;quot;methodName&amp;quot;, &amp;quot;&amp;lt;anonymous&amp;gt;&amp;quot;)\n                        if &amp;quot;className&amp;quot; in frame:\n                            meth = f&amp;quot;{frame[&amp;#x27;className&amp;#x27;]}.{meth}&amp;quot;\n                        msg = &amp;quot;    at %s (%s)&amp;quot;\n                        msg = msg % (meth, file)\n                        stacktrace.append(msg)\n                except TypeError:\n                    pass\n        if exception_class == UnexpectedAlertPresentException:\n            alert_text = None\n            if &amp;quot;data&amp;quot; in value:\n                alert_text = value[&amp;quot;data&amp;quot;].get(&amp;quot;text&amp;quot;)\n            elif &amp;quot;alert&amp;quot; in value:\n                alert_text = value[&amp;quot;alert&amp;quot;].get(&amp;quot;text&amp;quot;)\n            raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here\n&amp;gt;       raise exception_class(message, screen, stacktrace)\nE       selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {&amp;quot;method&amp;quot;:&amp;quot;xpath&amp;quot;,&amp;quot;selector&amp;quot;:&amp;quot;//input[@id=&amp;#x27;name&amp;#x27;]&amp;quot;}\nE         (Session info: MicrosoftEdge=144.0.3719.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nE       Stacktrace:\nE       Symbols not available. Dumping unresolved backtrace:\nE       \t0x7ff6e55b87d5\nE       \t0x7ff6e5528e44\nE       \t0x7ff6e59131f2\nE       \t0x7ff6e5382d9e\nE       \t0x7ff6e5382ffb\nE       \t0x7ff6e53be917\nE       \t0x7ff6e537a2e5\nE       \t0x7ff6e53bc8de\nE       \t0x7ff6e537982a\nE       \t0x7ff6e5378b33\nE       \t0x7ff6e5379653\nE       \t0x7ff6e54622e4\nE       \t0x7ff6e547109c\nE       \t0x7ff6e546ac7f\nE       \t0x7ff6e5649b37\nE       \t0x7ff6e55346a6\nE       \t0x7ff6e552eab4\nE       \t0x7ff6e552ebf9\nE       \t0x7ff6e5522cbd\nE       \t0x7ffa04bce8d7\nE       \t0x7ffa05ccc40c\n\nC:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py:232: NoSuchElementException\n\n------------------------------ Captured log call -------------------------------\nINFO     root:test_Credkart_User_Profile_001.py:115 printing fake username\nINFO     root:test_Credkart_User_Profile_001.py:117 printing fake password\nINFO     root:test_Credkart_User_Profile_001.py:122 entering username\n\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_CredKart_Login_Excel_002.py::Test_User_Profile::test_Credkart_login_ddt_004&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Failed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_CredKart_Login_Excel_002.py::Test_User_Profile::test_Credkart_login_ddt_004&#34;, &#34;duration&#34;: &#34;00:00:59&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Failed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_CredKart_Login_Excel_002.py::Test_User_Profile::test_Credkart_login_ddt_004&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:59&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw0] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n\nself = &amp;lt;testCases.test_CredKart_Login_Excel_002.Test_User_Profile object at 0x0000022812510B90&amp;gt;\n\n    @pytest.mark.usefixtures(&amp;quot;browser_setup&amp;quot;)\n    def test_Credkart_login_ddt_004(self):\n    \n        self.driver.get(self.login_url)\n        self.lp = Login_Page_Class(self.driver)  # login page class object and now we can access the methods\n        self.log.info(&amp;quot;Reading Data from Excel&amp;quot;)\n        #Total rows in excel\n        self.rows=Excel_methods.get_count_rows(self.Excel_file,self.sheet_name)\n        self.log.info(f&amp;quot;Number of rows in Excel file {self.rows}&amp;quot;)\n    \n        result_list=[]\n        for i in range (2,self.rows+1):\n            self.driver.get(self.login_url)\n            self.log.info(&amp;quot;Opening Browser and Entering email&amp;quot;)\n            self.email=Excel_methods.read_excel_data(self.Excel_file,self.sheet_name,i,2)\n            self.password=Excel_methods.read_excel_data(self.Excel_file,self.sheet_name,i,3)\n            self.expected_result=Excel_methods.read_excel_data(self.Excel_file,self.sheet_name,i,4)\n    \n            # Entering Excel data one by one\n            self.lp.Enter_Email(self.email)\n            self.log.info(&amp;quot;Entering password&amp;quot;)\n            self.lp.Enter_Password(self.password)\n            self.log.info(&amp;quot;clicking on Login_Register_Button &amp;quot;)\n            self.lp.Click_Login_Register_Button()\n    \n            if self.lp.verify_menu_button_visibility() == &amp;quot;pass&amp;quot;:\n                self.log.info(&amp;quot;verify_menu_button_visibility pass&amp;quot;)\n                self.log.info(&amp;quot;taking screenshot of pass testcase&amp;quot;)\n                self.driver.save_screenshot(f&amp;quot;.\\\\Screenshots\\\\User Login Successful_{self.email}.png&amp;quot;)\n                self.log.info(&amp;quot;clicking on menu button&amp;quot;)\n                self.lp.Click_Menu_button()\n                self.log.info(&amp;quot;clicking on logout button&amp;quot;)\n                self.lp.Click_Logout_button()\n                actual_result=&amp;quot;login_pass&amp;quot;\n                Excel_methods.write_excel_data(self.Excel_file,self.sheet_name,i,5,actual_result)\n            else:\n    \n                self.log.info(&amp;quot;taking screenshot of fail testcase&amp;quot;)\n                self.driver.save_screenshot(f&amp;quot;.\\\\Screenshots\\\\User Login Fail {self.email}.png&amp;quot;)\n                actual_result = &amp;quot;login_fail&amp;quot;\n                Excel_methods.write_excel_data(self.Excel_file, self.sheet_name, i, 5, actual_result)\n    \n            if actual_result==self.expected_result:\n                test_status=&amp;quot;Pass&amp;quot;\n                Excel_methods.write_excel_data(self.Excel_file,self.sheet_name,i,6,test_status)\n            else:\n                test_status=&amp;quot;Fail&amp;quot;\n                Excel_methods.write_excel_data(self.Excel_file,self.sheet_name,i,6,test_status)\n    \n            result_list.append(test_status)\n    \n        if &amp;#x27;Fail&amp;#x27; not in result_list:\n            self.log.info(&amp;quot;All Testcase Passes&amp;quot;)\n        else:\n            self.log.info(&amp;quot;Some of the testcases have failed&amp;quot;)\n&amp;gt;           assert False\nE           assert False\n\ntestCases\\test_CredKart_Login_Excel_002.py:94: AssertionError\n\n------------------------------ Captured log setup ------------------------------\nWARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The msedgedriver version (143.0.3650.96) detected in PATH at C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry\n\n------------------------------ Captured log call -------------------------------\nINFO     root:test_CredKart_Login_Excel_002.py:44 Reading Data from Excel\nINFO     root:test_CredKart_Login_Excel_002.py:47 Number of rows in Excel file 5\nINFO     root:test_CredKart_Login_Excel_002.py:52 Opening Browser and Entering email\nINFO     root:test_CredKart_Login_Excel_002.py:59 Entering password\nINFO     root:test_CredKart_Login_Excel_002.py:61 clicking on Login_Register_Button \nINFO     root:test_CredKart_Login_Excel_002.py:65 verify_menu_button_visibility pass\nINFO     root:test_CredKart_Login_Excel_002.py:66 taking screenshot of pass testcase\nINFO     root:test_CredKart_Login_Excel_002.py:68 clicking on menu button\nINFO     root:test_CredKart_Login_Excel_002.py:70 clicking on logout button\nINFO     root:test_CredKart_Login_Excel_002.py:52 Opening Browser and Entering email\nINFO     root:test_CredKart_Login_Excel_002.py:59 Entering password\nINFO     root:test_CredKart_Login_Excel_002.py:61 clicking on Login_Register_Button \nINFO     root:test_CredKart_Login_Excel_002.py:65 verify_menu_button_visibility pass\nINFO     root:test_CredKart_Login_Excel_002.py:66 taking screenshot of pass testcase\nINFO     root:test_CredKart_Login_Excel_002.py:68 clicking on menu button\nINFO     root:test_CredKart_Login_Excel_002.py:70 clicking on logout button\nINFO     root:test_CredKart_Login_Excel_002.py:52 Opening Browser and Entering email\nINFO     root:test_CredKart_Login_Excel_002.py:59 Entering password\nINFO     root:test_CredKart_Login_Excel_002.py:61 clicking on Login_Register_Button \nINFO     root:test_CredKart_Login_Excel_002.py:76 taking screenshot of fail testcase\nINFO     root:test_CredKart_Login_Excel_002.py:52 Opening Browser and Entering email\nINFO     root:test_CredKart_Login_Excel_002.py:59 Entering password\nINFO     root:test_CredKart_Login_Excel_002.py:61 clicking on Login_Register_Button \nINFO     root:test_CredKart_Login_Excel_002.py:76 taking screenshot of fail testcase\nINFO     root:test_CredKart_Login_Excel_002.py:93 Some of the testcases have failed\n\n&#34;}], &#34;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_verify_Credkart_url_001&#34;: [{&#34;extras&#34;: [], &#34;result&#34;: &#34;Passed&#34;, &#34;testId&#34;: &#34;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_verify_Credkart_url_001&#34;, &#34;duration&#34;: &#34;00:00:18&#34;, &#34;resultsTableRow&#34;: [&#34;&lt;td class=\&#34;col-result\&#34;&gt;Passed&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-testId\&#34;&gt;CredKart_Pytest_Framework/testCases/test_Credkart_User_Profile_001.py::Test_User_Profile::test_verify_Credkart_url_001&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-duration\&#34;&gt;00:00:18&lt;/td&gt;&#34;, &#34;&lt;td class=\&#34;col-links\&#34;&gt;&lt;/td&gt;&#34;], &#34;log&#34;: &#34;[gw0] win32 -- Python 3.14.2 C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\n\n------------------------------ Captured log setup ------------------------------\nWARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The msedgedriver version (143.0.3650.96) detected in PATH at C:\\Users\\dipes\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry\n\n------------------------------ Captured log call -------------------------------\nINFO     root:test_Credkart_User_Profile_001.py:38 Opening Browser\nINFO     root:test_Credkart_User_Profile_001.py:41 test_verify_Credkart_url_001 is passed\nINFO     root:test_Credkart_User_Profile_001.py:43 Taking Screenshot of pass testcase\n\n&#34;}]}, &#34;renderCollapsed&#34;: [&#34;passed&#34;], &#34;initialSort&#34;: &#34;result&#34;, &#34;title&#34;: &#34;Automation Test Execution Report&#34;}"></div>
+    <script>
+      (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+const { getCollapsedCategory, setCollapsedIds } = require('./storage.js')
+
+class DataManager {
+    setManager(data) {
+        const collapsedCategories = [...getCollapsedCategory(data.renderCollapsed)]
+        const collapsedIds = []
+        const tests = Object.values(data.tests).flat().map((test, index) => {
+            const collapsed = collapsedCategories.includes(test.result.toLowerCase())
+            const id = `test_${index}`
+            if (collapsed) {
+                collapsedIds.push(id)
+            }
+            return {
+                ...test,
+                id,
+                collapsed,
+            }
+        })
+        const dataBlob = { ...data, tests }
+        this.data = { ...dataBlob }
+        this.renderData = { ...dataBlob }
+        setCollapsedIds(collapsedIds)
+    }
+
+    get allData() {
+        return { ...this.data }
+    }
+
+    resetRender() {
+        this.renderData = { ...this.data }
+    }
+
+    setRender(data) {
+        this.renderData.tests = [...data]
+    }
+
+    toggleCollapsedItem(id) {
+        this.renderData.tests = this.renderData.tests.map((test) =>
+            test.id === id ? { ...test, collapsed: !test.collapsed } : test,
+        )
+    }
+
+    set allCollapsed(collapsed) {
+        this.renderData = { ...this.renderData, tests: [...this.renderData.tests.map((test) => (
+            { ...test, collapsed }
+        ))] }
+    }
+
+    get testSubset() {
+        return [...this.renderData.tests]
+    }
+
+    get environment() {
+        return this.renderData.environment
+    }
+
+    get initialSort() {
+        return this.data.initialSort
+    }
+}
+
+module.exports = {
+    manager: new DataManager(),
+}
+
+},{"./storage.js":8}],2:[function(require,module,exports){
+const mediaViewer = require('./mediaviewer.js')
+const templateEnvRow = document.getElementById('template_environment_row')
+const templateResult = document.getElementById('template_results-table__tbody')
+
+function htmlToElements(html) {
+    const temp = document.createElement('template')
+    temp.innerHTML = html
+    return temp.content.childNodes
+}
+
+const find = (selector, elem) => {
+    if (!elem) {
+        elem = document
+    }
+    return elem.querySelector(selector)
+}
+
+const findAll = (selector, elem) => {
+    if (!elem) {
+        elem = document
+    }
+    return [...elem.querySelectorAll(selector)]
+}
+
+const dom = {
+    getStaticRow: (key, value) => {
+        const envRow = templateEnvRow.content.cloneNode(true)
+        const isObj = typeof value === 'object' && value !== null
+        const values = isObj ? Object.keys(value).map((k) => `${k}: ${value[k]}`) : null
+
+        const valuesElement = htmlToElements(
+            values ? `<ul>${values.map((val) => `<li>${val}</li>`).join('')}<ul>` : `<div>${value}</div>`)[0]
+        const td = findAll('td', envRow)
+        td[0].textContent = key
+        td[1].appendChild(valuesElement)
+
+        return envRow
+    },
+    getResultTBody: ({ testId, id, log, extras, resultsTableRow, tableHtml, result, collapsed }) => {
+        const resultBody = templateResult.content.cloneNode(true)
+        resultBody.querySelector('tbody').classList.add(result.toLowerCase())
+        resultBody.querySelector('tbody').id = testId
+        resultBody.querySelector('.collapsible').dataset.id = id
+
+        resultsTableRow.forEach((html) => {
+            const t = document.createElement('template')
+            t.innerHTML = html
+            resultBody.querySelector('.collapsible').appendChild(t.content)
+        })
+
+        if (log) {
+            // Wrap lines starting with "E" with span.error to color those lines red
+            const wrappedLog = log.replace(/^E.*$/gm, (match) => `<span class="error">${match}</span>`)
+            resultBody.querySelector('.log').innerHTML = wrappedLog
+        } else {
+            resultBody.querySelector('.log').remove()
+        }
+
+        if (collapsed) {
+            resultBody.querySelector('.collapsible > td')?.classList.add('collapsed')
+            resultBody.querySelector('.extras-row').classList.add('hidden')
+        } else {
+            resultBody.querySelector('.collapsible > td')?.classList.remove('collapsed')
+        }
+
+        const media = []
+        extras?.forEach(({ name, format_type, content }) => {
+            if (['image', 'video'].includes(format_type)) {
+                media.push({ path: content, name, format_type })
+            }
+
+            if (format_type === 'html') {
+                resultBody.querySelector('.extraHTML').insertAdjacentHTML('beforeend', `<div>${content}</div>`)
+            }
+        })
+        mediaViewer.setup(resultBody, media)
+
+        // Add custom html from the pytest_html_results_table_html hook
+        tableHtml?.forEach((item) => {
+            resultBody.querySelector('td[class="extra"]').insertAdjacentHTML('beforeend', item)
+        })
+
+        return resultBody
+    },
+}
+
+module.exports = {
+    dom,
+    htmlToElements,
+    find,
+    findAll,
+}
+
+},{"./mediaviewer.js":6}],3:[function(require,module,exports){
+const { manager } = require('./datamanager.js')
+const { doSort } = require('./sort.js')
+const storageModule = require('./storage.js')
+
+const getFilteredSubSet = (filter) =>
+    manager.allData.tests.filter(({ result }) => filter.includes(result.toLowerCase()))
+
+const doInitFilter = () => {
+    const currentFilter = storageModule.getVisible()
+    const filteredSubset = getFilteredSubSet(currentFilter)
+    manager.setRender(filteredSubset)
+}
+
+const doFilter = (type, show) => {
+    if (show) {
+        storageModule.showCategory(type)
+    } else {
+        storageModule.hideCategory(type)
+    }
+
+    const currentFilter = storageModule.getVisible()
+    const filteredSubset = getFilteredSubSet(currentFilter)
+    manager.setRender(filteredSubset)
+
+    const sortColumn = storageModule.getSort()
+    doSort(sortColumn, true)
+}
+
+module.exports = {
+    doFilter,
+    doInitFilter,
+}
+
+},{"./datamanager.js":1,"./sort.js":7,"./storage.js":8}],4:[function(require,module,exports){
+const { redraw, bindEvents, renderStatic } = require('./main.js')
+const { doInitFilter } = require('./filter.js')
+const { doInitSort } = require('./sort.js')
+const { manager } = require('./datamanager.js')
+const data = JSON.parse(document.getElementById('data-container').dataset.jsonblob)
+
+function init() {
+    manager.setManager(data)
+    doInitFilter()
+    doInitSort()
+    renderStatic()
+    redraw()
+    bindEvents()
+}
+
+init()
+
+},{"./datamanager.js":1,"./filter.js":3,"./main.js":5,"./sort.js":7}],5:[function(require,module,exports){
+const { dom, find, findAll } = require('./dom.js')
+const { manager } = require('./datamanager.js')
+const { doSort } = require('./sort.js')
+const { doFilter } = require('./filter.js')
+const {
+    getVisible,
+    getCollapsedIds,
+    setCollapsedIds,
+    getSort,
+    getSortDirection,
+    possibleFilters,
+} = require('./storage.js')
+
+const removeChildren = (node) => {
+    while (node.firstChild) {
+        node.removeChild(node.firstChild)
+    }
+}
+
+const renderStatic = () => {
+    const renderEnvironmentTable = () => {
+        const environment = manager.environment
+        const rows = Object.keys(environment).map((key) => dom.getStaticRow(key, environment[key]))
+        const table = document.getElementById('environment')
+        removeChildren(table)
+        rows.forEach((row) => table.appendChild(row))
+    }
+    renderEnvironmentTable()
+}
+
+const addItemToggleListener = (elem) => {
+    elem.addEventListener('click', ({ target }) => {
+        const id = target.parentElement.dataset.id
+        manager.toggleCollapsedItem(id)
+
+        const collapsedIds = getCollapsedIds()
+        if (collapsedIds.includes(id)) {
+            const updated = collapsedIds.filter((item) => item !== id)
+            setCollapsedIds(updated)
+        } else {
+            collapsedIds.push(id)
+            setCollapsedIds(collapsedIds)
+        }
+        redraw()
+    })
+}
+
+const renderContent = (tests) => {
+    const sortAttr = getSort(manager.initialSort)
+    const sortAsc = JSON.parse(getSortDirection())
+    const rows = tests.map(dom.getResultTBody)
+    const table = document.getElementById('results-table')
+    const tableHeader = document.getElementById('results-table-head')
+
+    const newTable = document.createElement('table')
+    newTable.id = 'results-table'
+
+    // remove all sorting classes and set the relevant
+    findAll('.sortable', tableHeader).forEach((elem) => elem.classList.remove('asc', 'desc'))
+    tableHeader.querySelector(`.sortable[data-column-type="${sortAttr}"]`)?.classList.add(sortAsc ? 'desc' : 'asc')
+    newTable.appendChild(tableHeader)
+
+    if (!rows.length) {
+        const emptyTable = document.getElementById('template_results-table__body--empty').content.cloneNode(true)
+        newTable.appendChild(emptyTable)
+    } else {
+        rows.forEach((row) => {
+            if (!!row) {
+                findAll('.collapsible td:not(.col-links', row).forEach(addItemToggleListener)
+                find('.logexpander', row).addEventListener('click',
+                    (evt) => evt.target.parentNode.classList.toggle('expanded'),
+                )
+                newTable.appendChild(row)
+            }
+        })
+    }
+
+    table.replaceWith(newTable)
+}
+
+const renderDerived = () => {
+    const currentFilter = getVisible()
+    possibleFilters.forEach((result) => {
+        const input = document.querySelector(`input[data-test-result="${result}"]`)
+        input.checked = currentFilter.includes(result)
+    })
+}
+
+const bindEvents = () => {
+    const filterColumn = (evt) => {
+        const { target: element } = evt
+        const { testResult } = element.dataset
+
+        doFilter(testResult, element.checked)
+        const collapsedIds = getCollapsedIds()
+        const updated = manager.renderData.tests.map((test) => {
+            return {
+                ...test,
+                collapsed: collapsedIds.includes(test.id),
+            }
+        })
+        manager.setRender(updated)
+        redraw()
+    }
+
+    const header = document.getElementById('environment-header')
+    header.addEventListener('click', () => {
+        const table = document.getElementById('environment')
+        table.classList.toggle('hidden')
+        header.classList.toggle('collapsed')
+    })
+
+    findAll('input[name="filter_checkbox"]').forEach((elem) => {
+        elem.addEventListener('click', filterColumn)
+    })
+
+    findAll('.sortable').forEach((elem) => {
+        elem.addEventListener('click', (evt) => {
+            const { target: element } = evt
+            const { columnType } = element.dataset
+            doSort(columnType)
+            redraw()
+        })
+    })
+
+    document.getElementById('show_all_details').addEventListener('click', () => {
+        manager.allCollapsed = false
+        setCollapsedIds([])
+        redraw()
+    })
+    document.getElementById('hide_all_details').addEventListener('click', () => {
+        manager.allCollapsed = true
+        const allIds = manager.renderData.tests.map((test) => test.id)
+        setCollapsedIds(allIds)
+        redraw()
+    })
+}
+
+const redraw = () => {
+    const { testSubset } = manager
+
+    renderContent(testSubset)
+    renderDerived()
+}
+
+module.exports = {
+    redraw,
+    bindEvents,
+    renderStatic,
+}
+
+},{"./datamanager.js":1,"./dom.js":2,"./filter.js":3,"./sort.js":7,"./storage.js":8}],6:[function(require,module,exports){
+class MediaViewer {
+    constructor(assets) {
+        this.assets = assets
+        this.index = 0
+    }
+
+    nextActive() {
+        this.index = this.index === this.assets.length - 1 ? 0 : this.index + 1
+        return [this.activeFile, this.index]
+    }
+
+    prevActive() {
+        this.index = this.index === 0 ? this.assets.length - 1 : this.index -1
+        return [this.activeFile, this.index]
+    }
+
+    get currentIndex() {
+        return this.index
+    }
+
+    get activeFile() {
+        return this.assets[this.index]
+    }
+}
+
+
+const setup = (resultBody, assets) => {
+    if (!assets.length) {
+        resultBody.querySelector('.media').classList.add('hidden')
+        return
+    }
+
+    const mediaViewer = new MediaViewer(assets)
+    const container = resultBody.querySelector('.media-container')
+    const leftArrow = resultBody.querySelector('.media-container__nav--left')
+    const rightArrow = resultBody.querySelector('.media-container__nav--right')
+    const mediaName = resultBody.querySelector('.media__name')
+    const counter = resultBody.querySelector('.media__counter')
+    const imageEl = resultBody.querySelector('img')
+    const sourceEl = resultBody.querySelector('source')
+    const videoEl = resultBody.querySelector('video')
+
+    const setImg = (media, index) => {
+        if (media?.format_type === 'image') {
+            imageEl.src = media.path
+
+            imageEl.classList.remove('hidden')
+            videoEl.classList.add('hidden')
+        } else if (media?.format_type === 'video') {
+            sourceEl.src = media.path
+
+            videoEl.classList.remove('hidden')
+            imageEl.classList.add('hidden')
+        }
+
+        mediaName.innerText = media?.name
+        counter.innerText = `${index + 1} / ${assets.length}`
+    }
+    setImg(mediaViewer.activeFile, mediaViewer.currentIndex)
+
+    const moveLeft = () => {
+        const [media, index] = mediaViewer.prevActive()
+        setImg(media, index)
+    }
+    const doRight = () => {
+        const [media, index] = mediaViewer.nextActive()
+        setImg(media, index)
+    }
+    const openImg = () => {
+        window.open(mediaViewer.activeFile.path, '_blank')
+    }
+    if (assets.length === 1) {
+        container.classList.add('media-container--fullscreen')
+    } else {
+        leftArrow.addEventListener('click', moveLeft)
+        rightArrow.addEventListener('click', doRight)
+    }
+    imageEl.addEventListener('click', openImg)
+}
+
+module.exports = {
+    setup,
+}
+
+},{}],7:[function(require,module,exports){
+const { manager } = require('./datamanager.js')
+const storageModule = require('./storage.js')
+
+const genericSort = (list, key, ascending, customOrder) => {
+    let sorted
+    if (customOrder) {
+        sorted = list.sort((a, b) => {
+            const aValue = a.result.toLowerCase()
+            const bValue = b.result.toLowerCase()
+
+            const aIndex = customOrder.findIndex((item) => item.toLowerCase() === aValue)
+            const bIndex = customOrder.findIndex((item) => item.toLowerCase() === bValue)
+
+            // Compare the indices to determine the sort order
+            return aIndex - bIndex
+        })
+    } else {
+        sorted = list.sort((a, b) => a[key] === b[key] ? 0 : a[key] > b[key] ? 1 : -1)
+    }
+
+    if (ascending) {
+        sorted.reverse()
+    }
+    return sorted
+}
+
+const durationSort = (list, ascending) => {
+    const parseDuration = (duration) => {
+        if (duration.includes(':')) {
+            // If it's in the format "HH:mm:ss"
+            const [hours, minutes, seconds] = duration.split(':').map(Number)
+            return (hours * 3600 + minutes * 60 + seconds) * 1000
+        } else {
+            // If it's in the format "nnn ms"
+            return parseInt(duration)
+        }
+    }
+    const sorted = list.sort((a, b) => parseDuration(a['duration']) - parseDuration(b['duration']))
+    if (ascending) {
+        sorted.reverse()
+    }
+    return sorted
+}
+
+const doInitSort = () => {
+    const type = storageModule.getSort(manager.initialSort)
+    const ascending = storageModule.getSortDirection()
+    const list = manager.testSubset
+    const initialOrder = ['Error', 'Failed', 'Rerun', 'XFailed', 'XPassed', 'Skipped', 'Passed']
+
+    storageModule.setSort(type)
+    storageModule.setSortDirection(ascending)
+
+    if (type?.toLowerCase() === 'original') {
+        manager.setRender(list)
+    } else {
+        let sortedList
+        switch (type) {
+        case 'duration':
+            sortedList = durationSort(list, ascending)
+            break
+        case 'result':
+            sortedList = genericSort(list, type, ascending, initialOrder)
+            break
+        default:
+            sortedList = genericSort(list, type, ascending)
+            break
+        }
+        manager.setRender(sortedList)
+    }
+}
+
+const doSort = (type, skipDirection) => {
+    const newSortType = storageModule.getSort(manager.initialSort) !== type
+    const currentAsc = storageModule.getSortDirection()
+    let ascending
+    if (skipDirection) {
+        ascending = currentAsc
+    } else {
+        ascending = newSortType ? false : !currentAsc
+    }
+    storageModule.setSort(type)
+    storageModule.setSortDirection(ascending)
+
+    const list = manager.testSubset
+    const sortedList = type === 'duration' ? durationSort(list, ascending) : genericSort(list, type, ascending)
+    manager.setRender(sortedList)
+}
+
+module.exports = {
+    doInitSort,
+    doSort,
+}
+
+},{"./datamanager.js":1,"./storage.js":8}],8:[function(require,module,exports){
+const possibleFilters = [
+    'passed',
+    'skipped',
+    'failed',
+    'error',
+    'xfailed',
+    'xpassed',
+    'rerun',
+]
+
+const getVisible = () => {
+    const url = new URL(window.location.href)
+    const settings = new URLSearchParams(url.search).get('visible')
+    const lower = (item) => {
+        const lowerItem = item.toLowerCase()
+        if (possibleFilters.includes(lowerItem)) {
+            return lowerItem
+        }
+        return null
+    }
+    return settings === null ?
+        possibleFilters :
+        [...new Set(settings?.split(',').map(lower).filter((item) => item))]
+}
+
+const hideCategory = (categoryToHide) => {
+    const url = new URL(window.location.href)
+    const visibleParams = new URLSearchParams(url.search).get('visible')
+    const currentVisible = visibleParams ? visibleParams.split(',') : [...possibleFilters]
+    const settings = [...new Set(currentVisible)].filter((f) => f !== categoryToHide).join(',')
+
+    url.searchParams.set('visible', settings)
+    window.history.pushState({}, null, unescape(url.href))
+}
+
+const showCategory = (categoryToShow) => {
+    if (typeof window === 'undefined') {
+        return
+    }
+    const url = new URL(window.location.href)
+    const currentVisible = new URLSearchParams(url.search).get('visible')?.split(',').filter(Boolean) ||
+        [...possibleFilters]
+    const settings = [...new Set([categoryToShow, ...currentVisible])]
+    const noFilter = possibleFilters.length === settings.length || !settings.length
+
+    noFilter ? url.searchParams.delete('visible') : url.searchParams.set('visible', settings.join(','))
+    window.history.pushState({}, null, unescape(url.href))
+}
+
+const getSort = (initialSort) => {
+    const url = new URL(window.location.href)
+    let sort = new URLSearchParams(url.search).get('sort')
+    if (!sort) {
+        sort = initialSort || 'result'
+    }
+    return sort
+}
+
+const setSort = (type) => {
+    const url = new URL(window.location.href)
+    url.searchParams.set('sort', type)
+    window.history.pushState({}, null, unescape(url.href))
+}
+
+const getCollapsedCategory = (renderCollapsed) => {
+    let categories
+    if (typeof window !== 'undefined') {
+        const url = new URL(window.location.href)
+        const collapsedItems = new URLSearchParams(url.search).get('collapsed')
+        switch (true) {
+        case !renderCollapsed && collapsedItems === null:
+            categories = ['passed']
+            break
+        case collapsedItems?.length === 0 || /^["']{2}$/.test(collapsedItems):
+            categories = []
+            break
+        case /^all$/.test(collapsedItems) || collapsedItems === null && /^all$/.test(renderCollapsed):
+            categories = [...possibleFilters]
+            break
+        default:
+            categories = collapsedItems?.split(',').map((item) => item.toLowerCase()) || renderCollapsed
+            break
+        }
+    } else {
+        categories = []
+    }
+    return categories
+}
+
+const getSortDirection = () => JSON.parse(sessionStorage.getItem('sortAsc')) || false
+const setSortDirection = (ascending) => sessionStorage.setItem('sortAsc', ascending)
+
+const getCollapsedIds = () => JSON.parse(sessionStorage.getItem('collapsedIds')) || []
+const setCollapsedIds = (list) => sessionStorage.setItem('collapsedIds', JSON.stringify(list))
+
+module.exports = {
+    getVisible,
+    hideCategory,
+    showCategory,
+    getCollapsedIds,
+    setCollapsedIds,
+    getSort,
+    setSort,
+    getSortDirection,
+    setSortDirection,
+    getCollapsedCategory,
+    possibleFilters,
+}
+
+},{}]},{},[4]);
+    </script>
+  </footer>
+</html>

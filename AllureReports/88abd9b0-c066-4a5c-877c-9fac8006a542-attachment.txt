@@ -1,7 +1,0 @@
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:62 Entering email
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:68 Entering password
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:74 clicking on Login_Register_Button 
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:95 verify_menu_button_visibility pass
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:96 taking screenshot of pass testcase
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:98 clicking on menu button
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:100 clicking on logout button

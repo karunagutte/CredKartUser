@@ -1,3 +1,0 @@
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:38 Opening Browser
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:41 test_verify_Credkart_url_001 is passed
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:43 Taking Screenshot of pass testcase

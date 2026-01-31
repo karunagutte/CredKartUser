@@ -1,3 +1,0 @@
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:115 printing fake username
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:117 printing fake password
-[32mINFO    [0m root:test_Credkart_User_Profile_001.py:122 entering username

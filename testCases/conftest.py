@@ -37,18 +37,20 @@ def browser_setup(request):
         chrome_options.add_argument("--headless")
         driver = webdriver.Chrome(options = chrome_options)
   else:
-      chrome_options = webdriver.ChromeOptions()
-      # Create an "options" object for Chrome.
-      # We use it to control Chrome settings before the browser launches, for password message
-      chrome_options.add_experimental_option("prefs", {
-          "credentials_enable_service": False,
-          # This turns OFF Chrome's "credentials service"
-          # Chrome will not offer to save usernames/passwords.
-          "profile.password_manager_enabled": False
-          # This turns OFF Chrome's built-in Password Manager feature.
-          # Password Manager related popups (Save password / breach warning) will not come.
-      })
-      driver = webdriver.Chrome(options=chrome_options)
+        driver = webdriver.Firefox()
+
+      # chrome_options = webdriver.ChromeOptions()
+      # # Create an "options" object for Chrome.
+      # # We use it to control Chrome settings before the browser launches, for password message
+      # chrome_options.add_experimental_option("prefs", {
+      #     "credentials_enable_service": False,
+      #     # This turns OFF Chrome's "credentials service"
+      #     # Chrome will not offer to save usernames/passwords.
+      #     "profile.password_manager_enabled": False
+      #     # This turns OFF Chrome's built-in Password Manager feature.
+      #     # Password Manager related popups (Save password / breach warning) will not come.
+      #})
+      #driver = webdriver.Chrome(options=chrome_options)
 
   driver.maximize_window()
   driver.implicitly_wait(5)

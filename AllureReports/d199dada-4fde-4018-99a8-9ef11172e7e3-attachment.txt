@@ -1,4 +1,0 @@
-email_id-->Credencetest@test.com
-password-->Credence@123
-expected_result-->login_pass
-User login pass
