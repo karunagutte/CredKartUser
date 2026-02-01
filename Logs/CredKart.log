@@ -1287,3 +1287,101 @@
 2026-02-01 07:57:57,417 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
 2026-02-01 08:01:13,213 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
 2026-02-01 08:01:13,213 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,349 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,349 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,371 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,371 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,412 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,412 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,554 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:22,554 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:12:41,019 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-02-01 22:12:41,019 - test_Credkart_login_ddt_004 - INFO - 44 - Reading Data from Excel
+2026-02-01 22:12:41,532 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-02-01 22:12:41,532 - test_Credkart_login_ddt_004 - INFO - 47 - Number of rows in Excel file 5
+2026-02-01 22:12:42,113 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:12:42,113 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:12:42,839 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-02-01 22:12:42,839 - test_Credkart_login_002 - INFO - 62 - Entering email
+2026-02-01 22:12:45,537 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:12:45,537 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:12:45,775 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-02-01 22:12:45,775 - test_Credkart_login_002 - INFO - 68 - Entering password
+2026-02-01 22:12:48,903 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:12:48,903 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:12:49,127 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-02-01 22:12:49,127 - test_Credkart_login_002 - INFO - 74 - clicking on Login_Register_Button 
+2026-02-01 22:12:53,372 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-02-01 22:12:53,372 - test_Credkart_login_002 - INFO - 95 - verify_menu_button_visibility pass
+2026-02-01 22:12:53,372 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-02-01 22:12:53,372 - test_Credkart_login_002 - INFO - 96 - taking screenshot of pass testcase
+2026-02-01 22:12:54,055 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-02-01 22:12:54,055 - test_Credkart_login_002 - INFO - 98 - clicking on menu button
+2026-02-01 22:12:54,973 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-02-01 22:12:54,973 - test_Credkart_login_002 - INFO - 100 - clicking on logout button
+2026-02-01 22:12:56,155 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-02-01 22:12:56,155 - test_Credkart_login_ddt_004 - INFO - 65 - verify_menu_button_visibility pass
+2026-02-01 22:12:56,155 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-02-01 22:12:56,155 - test_Credkart_login_ddt_004 - INFO - 66 - taking screenshot of pass testcase
+2026-02-01 22:12:56,793 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-02-01 22:12:56,793 - test_Credkart_login_ddt_004 - INFO - 68 - clicking on menu button
+2026-02-01 22:12:56,996 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-02-01 22:12:56,996 - test_Credkart_registration_003 - INFO - 115 - printing fake username
+2026-02-01 22:12:56,996 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-02-01 22:12:56,996 - test_Credkart_registration_003 - INFO - 117 - printing fake password
+2026-02-01 22:12:57,002 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-02-01 22:12:57,002 - test_Credkart_registration_003 - INFO - 122 - entering username
+2026-02-01 22:12:57,705 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-02-01 22:12:57,705 - test_Credkart_registration_003 - INFO - 125 - entering email
+2026-02-01 22:12:57,892 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-02-01 22:12:57,892 - test_Credkart_login_ddt_004 - INFO - 70 - clicking on logout button
+2026-02-01 22:12:59,528 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-02-01 22:12:59,528 - test_Credkart_registration_003 - INFO - 128 - entering password
+2026-02-01 22:13:08,381 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:13:08,381 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:13:09,918 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-02-01 22:13:09,918 - test_Credkart_registration_003 - INFO - 131 - entering confirmed password
+2026-02-01 22:13:14,310 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-02-01 22:13:14,310 - test_Credkart_registration_003 - INFO - 134 - clicking on register button
+2026-02-01 22:13:14,591 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:13:14,591 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:13:15,187 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:13:15,187 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:13:16,569 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-02-01 22:13:16,569 - test_Credkart_registration_003 - INFO - 138 - Menu button visibility passed
+2026-02-01 22:13:16,570 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass robinsonjames
+2026-02-01 22:13:16,570 - test_Credkart_registration_003 - INFO - 139 - Taking screenshot of User Registration Pass robinsonjames
+2026-02-01 22:13:17,198 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-02-01 22:13:17,198 - test_Credkart_registration_003 - INFO - 141 - clicking on menu button
+2026-02-01 22:13:17,809 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-02-01 22:13:17,809 - test_Credkart_registration_003 - INFO - 143 - clicking on logout button
+2026-02-01 22:13:22,218 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-02-01 22:13:22,218 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-02-01 22:13:24,574 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:13:24,574 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:13:26,675 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:13:26,675 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:13:28,613 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:13:28,613 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:13:35,472 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-02-01 22:13:35,472 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-02-01 22:13:36,723 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:13:36,723 - test_Credkart_login_ddt_004 - INFO - 52 - Opening Browser and Entering email
+2026-02-01 22:13:37,657 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:13:37,657 - test_Credkart_login_ddt_004 - INFO - 59 - Entering password
+2026-02-01 22:13:37,905 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:13:37,905 - test_Credkart_login_ddt_004 - INFO - 61 - clicking on Login_Register_Button 
+2026-02-01 22:13:44,604 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-02-01 22:13:44,604 - test_Credkart_login_ddt_004 - INFO - 76 - taking screenshot of fail testcase
+2026-02-01 22:13:45,439 - test_Credkart_login_ddt_004 - INFO - 91 - All Testcase Passes
+2026-02-01 22:13:45,439 - test_Credkart_login_ddt_004 - INFO - 91 - All Testcase Passes
+2026-02-01 22:13:45,439 - test_Credkart_login_ddt_004 - INFO - 96 - test_Credkart_login_ddt_004 Completed
+2026-02-01 22:13:45,439 - test_Credkart_login_ddt_004 - INFO - 96 - test_Credkart_login_ddt_004 Completed
+2026-02-01 22:15:03,922 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:15:03,922 - _process_logs - WARNING - 140 - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.104); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-01 22:15:10,436 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-02-01 22:15:10,436 - test_verify_Credkart_url_001 - INFO - 38 - Opening Browser
+2026-02-01 22:15:13,119 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-02-01 22:15:13,119 - test_verify_Credkart_url_001 - INFO - 41 - test_verify_Credkart_url_001 is passed
+2026-02-01 22:15:13,183 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
+2026-02-01 22:15:13,183 - test_verify_Credkart_url_001 - INFO - 43 - Taking Screenshot of pass testcase
